@@ -1,0 +1,6 @@
+ID_Venta,Fecha,ID_Cliente,Producto,Cantidad,Precio_Unitario
+1,2025-05-01,101,Cuaderno,3,200.0
+2,2025-05-02,102,Lápiz,10,50.0
+3,2025-05-03,103,Mochila,2,1200.0
+4,2025-05-04,104,Regla,5,75.0
+5,2025-05-05,105,Cartuchera,4,500.0
